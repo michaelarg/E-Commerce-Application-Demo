@@ -22,8 +22,6 @@ The system supports multiple actors, including:
 
 The site ensures a secure user experience by enforcing secure connections and using proper password encryption. It applies the Model-View-Controller (MVC) pattern and other web development best practices.
 
-**System Documentation:** This repository also includes the *Mike's Online Shopping System Use Case Specification Document*, which outlines the functional behavior of the system from the perspective of its primary actors.
-
 ---
 
 ## Built With
