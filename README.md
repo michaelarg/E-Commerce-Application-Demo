@@ -47,31 +47,26 @@ The following technologies were used to build the application:
 
    ![Home Page - Mike’s_Shopping](./Home%20Page%20-%20Mike’s_Shopping.png)
 
+---
+
 2. **About Page - About Our Service**  
    Provides information about the company's contact details and services/products offered.  
 
    ![About Page - Mike’s_Shopping](./About%20page%20-%20Mike’s_Shopping.png)
+
+---
 
 3. **Signup Page - Create Account**  
    Form for new customers to register for an account.  
 
    ![Signup Page - Mike’s_Shopping](./Signup%20page%20-%20Mike’s_Shopping.png)
 
+---
+
 4. **Login Page - Login Account**  
    Form for authenticated users (Customers, Admin, or Warehouse Personnel) to access the system. Customers must login to order products and review their orders.  
 
    ![Login Page - Mike’s_Shopping](./Login%20page%20-%20Mike’s_Shopping.png)
-
----
-
-## Demo Video
-
-Watch the full demonstration of the application:
-
-<video width="800" controls>
-  <source src="./Mike’s%20Online%20Shopping_Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ---
 
