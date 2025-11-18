@@ -4,7 +4,6 @@
 - [About The Project](#about-the-project)
 - [Built With](#built-with)
 - [Features - Demo](#features---demo)
-- [Demo Video](#demo-video)
 - [Contact](#contact)
 
 ---
