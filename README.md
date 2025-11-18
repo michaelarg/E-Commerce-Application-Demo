@@ -45,22 +45,22 @@ The following technologies were used to build the application:
 1. **Home Page**  
    Displays the main entry point for the online shopping system.  
 
-   ![Home Page - Mike’s_Shopping](./Home Page - Mike’s_Shopping.png)
+   ![Home Page - Mike’s_Shopping](./Home%20Page%20-%20Mike’s_Shopping.png)
 
 2. **About Page - About Our Service**  
    Provides information about the company's contact details and services/products offered.  
 
-   ![About Page - Mike’s_Shopping](./About page - Mike’s_Shopping.png)
+   ![About Page - Mike’s_Shopping](./About%20page%20-%20Mike’s_Shopping.png)
 
 3. **Signup Page - Create Account**  
    Form for new customers to register for an account.  
 
-   ![Signup Page - Mike’s_Shopping](./Signup page - Mike’s_Shopping.png)
+   ![Signup Page - Mike’s_Shopping](./Signup%20page%20-%20Mike’s_Shopping.png)
 
 4. **Login Page - Login Account**  
    Form for authenticated users (Customers, Admin, or Warehouse Personnel) to access the system. Customers must login to order products and review their orders.  
 
-   ![Login Page - Mike’s_Shopping](./Login page - Mike’s_Shopping.png)
+   ![Login Page - Mike’s_Shopping](./Login%20page%20-%20Mike’s_Shopping.png)
 
 ---
 
@@ -68,11 +68,14 @@ The following technologies were used to build the application:
 
 Watch the full demonstration of the application:
 
-[Mike’s Online Shopping Demo](./Mike’s Online Shopping_Demo.mp4)
+<video width="800" controls>
+  <source src="./Mike’s%20Online%20Shopping_Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
 ## Contact
 
-**Author:** Michael Arg.
+**Author:** Michael Arg.  
 **Email:** michgw7@gmail.com
